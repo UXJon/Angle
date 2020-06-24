@@ -4,7 +4,7 @@ Angle is a wrapper around a radian angle value which makes angles much easier fo
 
 Angles can be defined in degrees, radians, revolutions (percentage of a full turn), quarter turns, and eighth turns. Regardless of definition, it is always stored as radians.  Angles can be added together, subtracted from one another, or multiplied/divided by a scalar. They can also be snapped to the nearest half degree, 1°, 5°, or 45°
 
-##Angle Creation
+## Angle Creation
 
 An angle can be easily created using the degree operator °
 
