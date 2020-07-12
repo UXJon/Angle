@@ -7,7 +7,7 @@
 import Foundation
 import CoreGraphics
 
-postfix operator °
+public postfix operator °
 
 public postfix func ° (_ degrees:CGFloat)->Angle {
     return Angle(degrees: degrees)

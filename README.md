@@ -84,7 +84,7 @@ It can also be normalized to fall in the 0 to 180° range or 0 to 90° range
 You can check if two angles are equivalent (not necessarily equal):
 
 	if angle.isEquivalent(to: other) {
-	
+		//Do something here...
 	}
 	
 Two angles are equivalent if they are equal when normalized.
